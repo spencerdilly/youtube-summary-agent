@@ -1,0 +1,3 @@
+Flask
+openai
+youtube-transcript-api
